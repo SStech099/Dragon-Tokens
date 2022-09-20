@@ -7,14 +7,14 @@ module.exports = {
   defaultNetwork: "rinkeby",
   networks: {
     ropsten: {
-      url: "https://ropsten.infura.io/v3/67f45a37e5524b49aa0a9cdb19691ef3",
+      url: "",
       chainId: 3,
       accounts: [process.env.PRIVATE_KEY],
       gasPrice: 5000000000,
       gas: 50000000,
     },
     rinkeby: {
-      url: "https://rinkeby.infura.io/v3/67f45a37e5524b49aa0a9cdb19691ef3",
+      url: "",
       chainId: 4,
       accounts: [process.env.PRIVATE_KEY],
       gasPrice: 5000000000,

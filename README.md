@@ -1,14 +1,6 @@
 # Dragon Token
 
 
-###Table of content
-
-> Project description
-> Installation and Deployment
-> Operating of contract
-> Address of the contract
-
-
 ### Project description
 > Dragon Tokens is an ERC20 contract with 100 million preminted tokens, the owner of the contract is 0x55C0AD4FF27eb1e1Bf66aC6C29130E705750d806
 > Ownership can be transferred to any other address

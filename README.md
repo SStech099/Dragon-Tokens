@@ -1,7 +1,7 @@
 # Dragon Token
 
 
-##Table of content
+###Table of content
 
 > Project description
 > Installation and Deployment
